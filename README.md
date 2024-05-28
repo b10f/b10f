@@ -4,14 +4,16 @@
 
 <p align="center">
   <img width=200 src="https://images.credly.com/size/340x340/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" /> &nbsp;
-  <br>
-  <br>
+  <img width=200 src="https://images.credly.com/size/340x340/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" /> &nbsp;
+</p>
+
+## AWS
+
+<p align="center">
   <img width=200 src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" /> &nbsp;
   <img width=200 src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" /> &nbsp;
   <img width=200 src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" /> &nbsp;
 </p>
-
-## AWS
 
 
 <!--
