@@ -3,7 +3,7 @@
 ## Kubernetes
 
 <p align="center">
-  <img width=150 src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="Certified Kubernetes Application Developer (CKAD)" /> &nbsp;
+  <img width=150 src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="Certified Kubernetes Application Developer (CKAD)" /> &nbsp;
   <img width=150 src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator (CKA)" /> &nbsp;
 </p>
 
